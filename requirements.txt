@@ -6,6 +6,7 @@ comtypes>=1.1.10
 protobuf>=3.20.0
 screen-brightness-control>=0.1.53
 
+pyaudio
 eel==0.14.0
 pyttsx3==2.90
 SpeechRecognition==3.8.1
